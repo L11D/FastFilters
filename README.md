@@ -2,7 +2,7 @@
 
 ## Обзор
 
-Проект на языке программирования C++ предназначен для применения фильтров негатива и размытия по гауссу к изображениям с использованием различной реализации алгоритмов.
+Проект предназначен для применения фильтров негатива и размытия по гауссу к изображениям с использованием различной реализации алгоритмов.
 
 ## Способы обработки изображений
 
@@ -28,7 +28,7 @@
 
 ## Overview
 
-This C++ project is designed to apply negative and Gaussian blur filters to images using various algorithm implementations.
+This project is designed to apply negative and Gaussian blur filters to images using various algorithm implementations.
 
 ## Image Processing Methods
 
